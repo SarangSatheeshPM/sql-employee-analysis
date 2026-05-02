@@ -3,7 +3,7 @@
 ## 📊 Overview
 This project analyzes employee data using SQL to extract insights related to salary, departments, and hiring trends.
 
-## 🔍 Key Analysis Performed
+##  📊 Business Questions Answered
 - Average salary by department
 - Top 5 highest paid employees
 - Gender-wise salary comparison
